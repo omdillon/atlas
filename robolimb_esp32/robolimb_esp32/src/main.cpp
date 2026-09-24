@@ -111,7 +111,7 @@ void setup()
     delay(1000);
 
     // Initialize motor driver
-    motorDriver5.init(cfg);
+   // motorDriver5.init(cfg);
     motorDriver4.init(cfg);
     motorDriver3.init(cfg);
     motorDriver2.init(cfg);

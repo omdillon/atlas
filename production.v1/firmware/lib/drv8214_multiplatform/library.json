@@ -1,0 +1,19 @@
+{
+    "name": "drv8214_mutiplatform",
+    "version": "1.0.0",
+    "description": "C++ library for the DRV8214 motor driver",
+    "keywords": "motor, driver, sensorless, drv8214, arduino, esp32, stm32",
+    "authors": [
+      {
+        "name": "Théo Heng",
+        "email": "theoheng@icloud.com"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/PatateMagique/drv8214_multiplatform"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
+  
